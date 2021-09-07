@@ -1,5 +1,6 @@
 # <p align="center">Juegos en JavaScript</p>
 <p align="center">
+ <img src="readme/gamejs.png">
  </p>
 
 ### ✦ Acceso rápido a los juegos :rocket:
