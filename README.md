@@ -3,7 +3,7 @@
  </p>
 
 ### ✦ Acceso rápido a los juegos
-[➤ Galeria](https://zkc-gallery.netlify.app/)
+[♛ Galeria](https://zkc-gallery.netlify.app/)
 
 ---
 
