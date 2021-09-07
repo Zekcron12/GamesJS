@@ -2,8 +2,9 @@
 <p align="center">
  </p>
 
-### ✦ Acceso rápido a los juegos
+### ✦ Acceso rápido a los juegos :rocket:
 [♛ Game Sliter](https://zkc-gamesliterjs.netlify.app)
+
 [♛ Game Tateti](https://zkc-gametatetijs.netlify.app)
 
 ---
